@@ -1,1 +1,5 @@
+add raw/character/sonic.pac
+add raw/character/soniccyber.pac
+add raw/character/supersonic.pac
+add raw/dlc/dlccrm/dlccrm.pac
 add mod.ini
