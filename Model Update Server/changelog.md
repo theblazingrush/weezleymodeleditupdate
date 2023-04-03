@@ -2,6 +2,7 @@
 - Fixed the Soap Shoes appearing pitch-black
 - Fixed Fur flow map
 - (hopefully) Fixed eyelids clipping into the bottom of Sonic's ears
+- Added Update Server
 
 ## Weezley's Sonic Model Edits v1.5
 - Fixed shadows being broken in cutscenes
