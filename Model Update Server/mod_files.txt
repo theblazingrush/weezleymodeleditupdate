@@ -10,4 +10,5 @@ add normal/raw/character/sonic.pac
 add normal/raw/character/soniccyber.pac
 add normal/raw/character/supersonic.pac
 add normal/raw/dlc/dlccrm/dlccrm.pac
+add config.json
 add mod.ini
