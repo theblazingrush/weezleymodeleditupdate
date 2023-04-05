@@ -1,0 +1,41 @@
+{
+   "Groups": [
+      {
+         "Name": "Main",
+         "DisplayName": "Weezley's Sonic Model Edits",
+         "Elements": [
+            {
+               "Name": "IncludeDir0",
+               "DisplayName": "Glove Style:",
+               "Description": [
+                  "Choose what style of Gloves Sonic Wears."
+               ],
+               "Type": "ModelEditEnum",
+               "MinValue": null,
+               "MaxValue": null,
+               "DefaultValue": "normal"
+            
+            }
+         ]
+      }
+   ],
+   "Enums": {
+		"ModelEditEnum": [
+         {
+            "DisplayName": "Gloves with Fingers",
+            "Value": "normal",
+            "Description": [
+               "Gloves with fingers."
+            ]
+         },
+         {
+            "DisplayName": "Fingerless Gloves",
+            "Value": "fingerless",
+            "Description": [
+               "Fingerless Gloves."
+            ]
+         },	 
+      ]
+   },
+   "IniFile": "mod.ini"
+}
