@@ -1,3 +1,6 @@
+## Weezley's Sonic Moden Edits v2.0
+- Added configuration for Fingerless Gloves
+
 ## Weezley's Sonic Model Edits v1.75
 - Fixed the Soap Shoes appearing pitch-black
 - Fixed Fur flow map
