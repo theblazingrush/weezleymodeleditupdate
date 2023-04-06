@@ -1,5 +1,5 @@
 ## Weezley's Sonic Model Edits v2.5
-- Added configurations for PrinceFluff's Archie Shoes
+- Added configurations for Archie Shoes courtesy of PrinceFluffs
 
 ## Weezley's Sonic Model Edits v2.0
 - Added configuration for Fingerless Gloves
