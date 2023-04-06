@@ -1,4 +1,7 @@
-## Weezley's Sonic Moden Edits v2.0
+## Weezley's Sonic Model Edits v2.5
+- Added configurations for PrinceFluff's Archie Shoes
+
+## Weezley's Sonic Model Edits v2.0
 - Added configuration for Fingerless Gloves
 
 ## Weezley's Sonic Model Edits v1.75
