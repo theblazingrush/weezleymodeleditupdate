@@ -28,11 +28,25 @@
                "Gloves with fingers."
             ]
          },
+	 {
+            "DisplayName": "Gloves with Fingers + Archie Shoes",
+            "Value": "normalarchie",
+            "Description": [
+               "Gloves with fingers + Archie Shoes."
+            ]
+         },
          {
             "DisplayName": "Fingerless Gloves",
             "Value": "fingerless",
             "Description": [
                "Fingerless Gloves."
+            ]
+         },
+	 {
+            "DisplayName": "Fingerless Gloves + Archie Shoes",
+            "Value": "fingerlessarchie",
+            "Description": [
+               "Fingerless Gloves and Archie Shoes."
             ]
          },	 
       ]
