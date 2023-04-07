@@ -12,6 +12,6 @@ add normal/raw/character/supersonic.pac
 add fingerless/raw/character/sonic.pac
 add fingerless/raw/character/soniccyber.pac
 add fingerless/raw/character/supersonic.pac
-add figerless/raw/dlc/dlccrm/dlccrm.pac
+add fingerless/raw/dlc/dlccrm/dlccrm.pac
 add config.json
 add mod.ini
