@@ -1,3 +1,6 @@
+## Weezley's Sonic Model Edits v2.5.1
+- Updated the textures on the Archie Shoes to match Princefluffs'
+
 ## Weezley's Sonic Model Edits v2.5
 - Added configurations for Archie Shoes courtesy of PrinceFluffs
 
