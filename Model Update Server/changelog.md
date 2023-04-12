@@ -1,3 +1,6 @@
+## Weezley's Sonic Model Edits v2.75
+- Added the Jump Ball from my Alternate Jump Ball + Trail mod
+
 ## Weezley's Sonic Model Edits v2.5.1
 - Updated the textures on the Archie Shoes to match Princefluffs'
 
