@@ -1,3 +1,6 @@
+## Weezley's Sonic Model Edits v2.75.1
+- Added configurations to remove the electricity from the Jump Ball
+
 ## Weezley's Sonic Model Edits v2.75
 - Added the Jump Ball from my Alternate Jump Ball + Trail mod
 
