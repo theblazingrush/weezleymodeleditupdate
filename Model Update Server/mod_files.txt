@@ -1,4 +1,3 @@
-delete normal/raw/dlc/dlc/dlccrm/dlccrm.pac
 add normalarchie/raw/character/sonic.pac
 add normalarchie/raw/character/soniccyber.pac
 add normalarchie/raw/character/supersonic.pac
