@@ -6,9 +6,9 @@
          "Elements": [
             {
                "Name": "IncludeDir0",
-               "DisplayName": "Glove Style:",
+               "DisplayName": "Model Edits:",
                "Description": [
-                  "Choose what style of Gloves Sonic Wears."
+                  "Choose what style of Gloves, Shoes, and Jump Ball Sonic uses."
                ],
                "Type": "ModelEditEnum",
                "MinValue": null,
@@ -29,10 +29,24 @@
             ]
          },
 	 {
+            "DisplayName": "Gloves with Fingers + No Jump Ball Electricity",
+            "Value": "normalnoelec",
+            "Description": [
+               "Gloves with fingers and no electricity on the jump ball."
+            ]
+         },
+	 {
             "DisplayName": "Gloves with Fingers + Archie Shoes",
             "Value": "normalarchie",
             "Description": [
                "Gloves with fingers + Archie Shoes."
+            ]
+         },
+	 {
+            "DisplayName": "Gloves with Fingers + Archie Shoes + No Jump Ball Electricity",
+            "Value": "normalarchienoelec",
+            "Description": [
+               "Gloves with fingers + Archie Shoes and no electricity on the jump ball."
             ]
          },
          {
@@ -42,11 +56,25 @@
                "Fingerless Gloves."
             ]
          },
+         {
+            "DisplayName": "Fingerless Gloves + No Jump Ball Electricity",
+            "Value": "fingerlessnoelec",
+            "Description": [
+               "Fingerless Gloves and no electricity on the jump ball."
+            ]
+         },
 	 {
             "DisplayName": "Fingerless Gloves + Archie Shoes",
             "Value": "fingerlessarchie",
             "Description": [
                "Fingerless Gloves and Archie Shoes."
+            ]
+         },
+	 {
+            "DisplayName": "Fingerless Gloves + Archie Shoes + No Jump Ball Electricity",
+            "Value": "fingerlessarchienoelec",
+            "Description": [
+               "Fingerless Gloves and Archie Shoes and no electricity on the jump ball."
             ]
          },	 
       ]
