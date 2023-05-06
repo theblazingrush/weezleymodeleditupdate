@@ -1,4 +1,7 @@
 ## Weezley's Sonic Model Edits v2.75.1
+- Added configuration for Unleashed jump ball. Currently only available with the default customization options.
+
+## Weezley's Sonic Model Edits v2.75.1
 - Added configurations to remove the electricity from the Jump Ball
 
 ## Weezley's Sonic Model Edits v2.75

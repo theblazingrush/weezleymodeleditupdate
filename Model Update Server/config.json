@@ -77,6 +77,13 @@
                "Fingerless Gloves and Archie Shoes and no electricity on the jump ball."
             ]
          },	 
+	 {
+            "DisplayName": "Sonic Unleashed Jump Ball",
+            "Value": "unleashedball",
+            "Description": [
+               "Unleashed Jump Ball with Default Model Configurations."
+            ]
+         },	 
       ]
    },
    "IniFile": "mod.ini"

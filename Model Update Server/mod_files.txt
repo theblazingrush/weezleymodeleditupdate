@@ -27,5 +27,9 @@ add fingerlessnoelec/raw/character/sonic.pac
 add fingerlessnoelec/raw/character/soniccyber.pac
 add fingerlessnoelec/raw/character/supersonic.pac
 add fingerlessnoelec/raw/dlc/dlccrm/dlccrm.pac
+add unleashedball/raw/character/sonic.pac
+add unleashedball/raw/character/supersonic.pac
+add unleashedball/raw/character/soniccyber.pac
+add unleashedball/raw/EffectCommon.pac
 add config.json
 add mod.ini
