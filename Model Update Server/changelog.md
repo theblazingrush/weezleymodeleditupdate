@@ -1,4 +1,7 @@
-## Weezley's Sonic Model Edits v2.75.1
+## Weezley's Sonic Model Edits v2.95.1
+- Fixed the messed up uvs on the jump ball model in the Unleashed Jump Ball configuration.
+
+## Weezley's Sonic Model Edits v2.95
 - Added configuration for Unleashed jump ball. Currently only available with the default customization options.
 
 ## Weezley's Sonic Model Edits v2.75.1
