@@ -1,18 +1,8 @@
 delete soap/raw/dlc/dlccrm/dlccrm.pac
 delete normalarchie/raw/character/sonic.pac
-delete normalarchie/raw/character/soniccyber.pac
-delete normalarchie/raw/character/supersonic.pac
 delete fingerlessarchie/raw/character/sonic.pac
-delete fingerlessarchie/raw/character/soniccyber.pac
-delete fingerlessarchie/raw/character/supersonic.pac
-delete fingerlessarchie/raw/dlc/dlccrm/dlccrm.pac
 delete normal/raw/character/sonic.pac
-delete normal/raw/character/soniccyber.pac
-delete normal/raw/character/supersonic.pac
 delete fingerless/raw/character/sonic.pac
-delete fingerless/raw/character/soniccyber.pac
-delete fingerless/raw/character/supersonic.pac
-delete fingerless/raw/dlc/dlccrm/dlccrm.pac
 delete normalarchienoelec/raw/character/sonic.pac
 delete normalarchienoelec/raw/character/soniccyber.pac
 delete normalarchienoelec/raw/character/supersonic.pac
@@ -30,7 +20,6 @@ delete fingerlessnoelec/raw/dlc/dlccrm/dlccrm.pac
 delete unleashedball/raw/character/sonic.pac
 delete unleashedball/raw/character/supersonic.pac
 delete unleashedball/raw/character/soniccyber.pac
-delete unleashedball/raw/EffectCommon.pac
 add electricity/raw/text/text_dlc_common.pac
 add fingerless/raw/character/soniccyber.pac
 add fingerless/raw/character/supersonic.pac
