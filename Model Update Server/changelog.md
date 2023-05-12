@@ -1,3 +1,7 @@
+## Weezley's Sonic Model Edits v3.0
+- Completely overhauled the file layout to reduce file size
+- Every configuration option now supports the Unleashed Jump Ball (dlc support coming soon)
+
 ## Weezley's Sonic Model Edits v2.95.1
 - Fixed the messed up uvs on the jump ball model in the Unleashed Jump Ball configuration.
 

@@ -2,11 +2,11 @@
    "Groups": [
       {
          "Name": "Main",
-         "DisplayName": "Weezley's Sonic Model Edits",
+         "DisplayName": "Configurations",
          "Elements": [
             {
-               "Name": "IncludeDir0",
-               "DisplayName": "Model Edits:",
+               "Name": "IncludeDir1",
+               "DisplayName": "Shoes and Gloves:",
                "Description": [
                   "Choose what style of Gloves, Shoes, and Jump Ball Sonic uses."
                ],
@@ -15,22 +15,27 @@
                "MaxValue": null,
                "DefaultValue": "normal"
             
+      },
+      {
+               "Name": "IncludeDir2",
+               "DisplayName": "Jump Ball:",
+               "Description": [
+                  "Choose what style Jump Ball Sonic uses."
+               ],
+               "Type": "JumpBallEnum",
+               "MinValue": null,
+               "MaxValue": null,
+               "DefaultValue": "electricity"
+            
             }
          ]
       }
    ],
    "Enums": {
 		"ModelEditEnum": [
-         {
+	 {
             "DisplayName": "Gloves with Fingers",
             "Value": "normal",
-            "Description": [
-               "Gloves with fingers."
-            ]
-         },
-	 {
-            "DisplayName": "Gloves with Fingers + No Jump Ball Electricity",
-            "Value": "normalnoelec",
             "Description": [
                "Gloves with fingers and no electricity on the jump ball."
             ]
@@ -42,25 +47,11 @@
                "Gloves with fingers + Archie Shoes."
             ]
          },
-	 {
-            "DisplayName": "Gloves with Fingers + Archie Shoes + No Jump Ball Electricity",
-            "Value": "normalarchienoelec",
-            "Description": [
-               "Gloves with fingers + Archie Shoes and no electricity on the jump ball."
-            ]
-         },
          {
             "DisplayName": "Fingerless Gloves",
             "Value": "fingerless",
             "Description": [
                "Fingerless Gloves."
-            ]
-         },
-         {
-            "DisplayName": "Fingerless Gloves + No Jump Ball Electricity",
-            "Value": "fingerlessnoelec",
-            "Description": [
-               "Fingerless Gloves and no electricity on the jump ball."
             ]
          },
 	 {
@@ -69,21 +60,30 @@
             "Description": [
                "Fingerless Gloves and Archie Shoes."
             ]
+         },	 	 
+      ],
+		"JumpBallEnum": [
+	 {
+            "DisplayName": "Jump Ball With Electricity",
+            "Value": "electricity",
+            "Description": [
+               "Edited Jump Ball with Electricity"
+            ]
          },
 	 {
-            "DisplayName": "Fingerless Gloves + Archie Shoes + No Jump Ball Electricity",
-            "Value": "fingerlessarchienoelec",
+            "DisplayName": "Jump Ball Without Electricity",
+            "Value": "noelectricity",
             "Description": [
-               "Fingerless Gloves and Archie Shoes and no electricity on the jump ball."
+               "Edited Jump Ball without Electricity"
             ]
-         },	 
+         },
 	 {
-            "DisplayName": "Sonic Unleashed Jump Ball",
+            "DisplayName": "Unleashed Jump Ball",
             "Value": "unleashedball",
             "Description": [
-               "Unleashed Jump Ball with Default Model Configurations."
+               "Sonic Unleashed Jump Ball."
             ]
-         },	 
+         },
       ]
    },
    "IniFile": "mod.ini"
