@@ -2,6 +2,7 @@
 - Added Support for Update 2
 - Added Chip's Bracelet
 - Modified the Boost and Air Boost Animations to Fix Quill Placement
+- Made The Soap Shoes DLC Actually Work with Every Option. Lol
 
 ## Weezley's Sonic Model Edits v3.0
 - Completely overhauled the file layout to reduce file size
