@@ -1,3 +1,8 @@
+## Weezley's Sonic Model Edits v4.0
+- Added Support for Update 2
+- Added Chip's Bracelet
+- Modified the Boost and Air Boost Animations to Fix Quill Placement
+
 ## Weezley's Sonic Model Edits v3.0
 - Completely overhauled the file layout to reduce file size
 - Every configuration option now supports the Unleashed Jump Ball (dlc support coming soon)

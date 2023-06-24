@@ -5,7 +5,7 @@
          "DisplayName": "Configurations",
          "Elements": [
             {
-               "Name": "IncludeDir1",
+               "Name": "IncludeDir0",
                "DisplayName": "Shoes and Gloves:",
                "Description": [
                   "Choose what style of Gloves, Shoes, and Jump Ball Sonic uses."
@@ -17,7 +17,7 @@
             
       },
       {
-               "Name": "IncludeDir2",
+               "Name": "IncludeDir1",
                "DisplayName": "Jump Ball:",
                "Description": [
                   "Choose what style Jump Ball Sonic uses."
