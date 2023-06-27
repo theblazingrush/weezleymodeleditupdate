@@ -27,10 +27,22 @@
                "MaxValue": null,
                "DefaultValue": "electricity"
             
-            }
-         ]
+      },
+      {
+               "Name": "IncludeDir3",
+               "DisplayName": "Chip's Bracelet",
+               "Description": [
+                  "Toggle Chip's Bracelet on or off."
+               ],
+               "Type": "BraceletEnum",
+               "MinValue": null,
+               "MaxValue": null,
+               "DefaultValue": "chipbracelet"
+            
       }
-   ],
+    ]
+  }
+],
    "Enums": {
 		"ModelEditEnum": [
 	 {
@@ -82,6 +94,22 @@
             "Value": "unleashedball",
             "Description": [
                "Sonic Unleashed Jump Ball."
+            ]
+         },
+       ],
+		"BraceletEnum": [
+	 {
+            "DisplayName": "On",
+            "Value": "chipbracelet",
+            "Description": [
+               "Enable Chip's Bracelet."
+            ]
+         },
+	 {
+            "DisplayName": "Off",
+            "Value": "main",
+            "Description": [
+               "Disable Chip's Bracelet."
             ]
          },
       ]

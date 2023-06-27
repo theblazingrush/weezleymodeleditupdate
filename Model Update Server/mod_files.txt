@@ -44,5 +44,6 @@ add normalarchie/raw/misc/trr_common_texture.pac
 add normalarchie/raw/text/text_caption.pac
 add unleashedball/raw/text/text_dlc_common.pac
 add unleashedball/raw/EffectCommon.pac
+add chipbracelet/raw/text/text_common.pac
 add config.json
 add mod.ini
