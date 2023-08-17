@@ -20,6 +20,8 @@ delete fingerlessnoelec/raw/dlc/dlccrm/dlccrm.pac
 delete unleashedball/raw/character/sonic.pac
 delete unleashedball/raw/character/supersonic.pac
 delete unleashedball/raw/character/soniccyber.pac
+delete chipbracelet/raw/text/text_common.pac
+add chipbracelet/raw/text/text_objective.pac
 add electricity/raw/text/text_dlc_common.pac
 add fingerless/raw/character/soniccyber.pac
 add fingerless/raw/character/supersonic.pac
@@ -32,6 +34,8 @@ add fingerlessarchie/raw/dlc/dlccrm/dlccrm.pac
 add fingerlessarchie/raw/misc/trr_common_texture.pac
 add fingerlessarchie/raw/text/text_caption.pac
 add main/raw/character/sonic.pac
+add main/raw/character/sonic_birthday.pac
+add main/raw/character/sonic_crown.pac
 add main/raw/dlc/dlccrm/dlccrm.pac
 add noelectricity/raw/text/text_dlc_common.pac
 add normal/raw/character/soniccyber.pac
@@ -44,6 +48,7 @@ add normalarchie/raw/misc/trr_common_texture.pac
 add normalarchie/raw/text/text_caption.pac
 add unleashedball/raw/text/text_dlc_common.pac
 add unleashedball/raw/EffectCommon.pac
-add chipbracelet/raw/text/text_common.pac
+add vanillaball/raw/text/text_dlc_common.pac
 add config.json
+add modeledit.hmm
 add mod.ini

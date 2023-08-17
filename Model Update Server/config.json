@@ -25,7 +25,7 @@
                "Type": "JumpBallEnum",
                "MinValue": null,
                "MaxValue": null,
-               "DefaultValue": "electricity"
+               "DefaultValue": "vanillaball"
             
       },
       {
@@ -75,6 +75,13 @@
          },	 	 
       ],
 		"JumpBallEnum": [
+	 {
+            "DisplayName": "Vanilla Jump Ball",
+            "Value": "vanillaball",
+            "Description": [
+               "Vanilla Frontiers Jumpball"
+            ]
+         },
 	 {
             "DisplayName": "Jump Ball With Electricity",
             "Value": "electricity",

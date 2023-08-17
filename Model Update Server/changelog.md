@@ -1,3 +1,12 @@
+## Weezley's Sonic Model Edits v4.9
+- Added Custom Animations
+- Added option for the Vanilla Jump Ball
+- Added support for the Monster Hunter DLC costumes
+- Added the Crown and Birthday outfits (Uses default shoes and gloves)
+- Modified Sonic's skin tone to be slightly less yellow
+- Changed the files that Chip's Bracelet uses to hopefully conflict with less mods
+- Fixed the Unleashed Jump Ball not rotating when using Grand Slam/Recovery Smash against certain enemies
+
 ## Weezley's Sonic Model Edits v4.1
 - Added toggle for Chip's Bracelet
 
