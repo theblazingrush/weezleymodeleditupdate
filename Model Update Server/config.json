@@ -82,6 +82,13 @@
                "Vanilla Frontiers Jumpball"
             ]
          },
+    {
+            "DisplayName": "Modified Vanilla Jump Ball",
+            "Value": "modifiedball",
+            "Description": [
+               "Slightly Darker Frontiers Jumpball"
+            ]
+         },
 	 {
             "DisplayName": "Jump Ball With Electricity",
             "Value": "electricity",

@@ -1,12 +1,10 @@
 Code "Alternate Light Speed Dash Animation" in "Animation" by "Weezley"
 //
-    #lib "Sonic"
+    #lib "Player"
 //
 {
-    if (Sonic.State.GetCurrentStateID() == Sonic.StateID.StateLightDash)
+    if (Player.State.GetCurrentStateID<Sonic.StateID>() == Sonic.StateID.StateLightDash)
     {
-        Sonic.Animation.SetAnimation("SELECTJUMP_F_LOOP");
+        Player.Animation.SetAnimation("SELECTJUMP_F_LOOP");
     }
 }
-
-

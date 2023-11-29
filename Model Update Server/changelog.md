@@ -1,3 +1,9 @@
+## Weezley's Sonic Model Edits v5.0
+- Added Complete Support for Update 3
+- Added Outfit Fixes Support for Every Costume
+- Added a Modified Jump Ball option
+- Modified Super Sonic's Fur
+
 ## Weezley's Sonic Model Edits v4.9
 - Added Custom Animations
 - Added option for the Vanilla Jump Ball
