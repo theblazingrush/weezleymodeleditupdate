@@ -21,6 +21,7 @@ delete unleashedball/raw/character/sonic.pac
 delete unleashedball/raw/character/supersonic.pac
 delete unleashedball/raw/character/soniccyber.pac
 delete chipbracelet/raw/text/text_common.pac
+delete main/raw/character/desktop.ini
 add chipbracelet/raw/text/text_objective.pac
 add electricity/raw/text/text_dlc_common.pac
 add fingerless/raw/character/soniccyber.pac
@@ -35,7 +36,6 @@ add fingerlessarchie/raw/character/supersonic2.pac
 add fingerlessarchie/raw/dlc/dlccrm/dlccrm.pac
 add fingerlessarchie/raw/misc/trr_common_texture.pac
 add fingerlessarchie/raw/text/text_caption.pac
-add main/raw/character/desktop.ini
 add main/raw/character/sonic.pac
 add main/raw/character/sonic_birthday.pac
 add main/raw/character/sonic_crown.pac

@@ -1,3 +1,6 @@
+## Weezley's Sonic Model Edits v5.0.1
+- Fixed Felyne Rathalos' Super Sonic 2 Model not fully appearing
+
 ## Weezley's Sonic Model Edits v5.0
 - Added Complete Support for Update 3
 - Added Outfit Fixes Support for Every Costume
