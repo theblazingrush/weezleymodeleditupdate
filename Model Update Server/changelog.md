@@ -1,3 +1,9 @@
+## Weezley's Sonic Model Edits v5.1.0
+- Added Eyelashes to Sonic's eyelids
+- Flattened Sonic's eyelids to remove the bump on them
+- Redid some weights on Sonic's head to fix his eye model clipping through in certain cutscenes
+- Added the Fixed Update 3 Power Boost positioning mod 
+
 ## Weezley's Sonic Model Edits v5.0.1
 - Fixed Felyne Rathalos' Super Sonic 2 Model not fully appearing
 

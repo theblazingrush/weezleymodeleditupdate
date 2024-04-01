@@ -45,6 +45,7 @@ add main/raw/dlc/dlcholoA/dlcholoA.pac
 add main/raw/dlc/dlcmhr/dlcmhr_costume_airou.pac
 add main/raw/dlc/dlcmhr/dlcmhr_costume_hunter.pac
 add main/raw/dlc/dlcxmas/dlcxmas.pac
+add main/raw/EffectCommon.pac
 add modifiedball/raw/text/text_dlc_common.pac
 add noelectricity/raw/text/text_dlc_common.pac
 add normal/raw/character/soniccyber.pac
