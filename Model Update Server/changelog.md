@@ -1,3 +1,9 @@
+## Weezley's Sonic Model Edits v5.1.5
+- Added a new boost idle animation
+- Redid Sonic's fur prm map
+- Filled in the holes on the top of Super Sonic's torso
+- Fixed eyelashes on Super Sonic's Holiday Cheer costume
+
 ## Weezley's Sonic Model Edits v5.1.0
 - Added Eyelashes to Sonic's eyelids
 - Flattened Sonic's eyelids to remove the bump on them
