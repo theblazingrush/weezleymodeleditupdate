@@ -1,3 +1,6 @@
+## Weezley's Sonic Model Edits v5.1.6
+- Fixed Sonic's stomp effect rotation via his .effdb file
+
 ## Weezley's Sonic Model Edits v5.1.5
 - Added a new boost idle animation
 - Redid Sonic's fur prm map
